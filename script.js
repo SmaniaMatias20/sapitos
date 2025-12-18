@@ -2,6 +2,7 @@ const data = {
     Enzo: ["img/enzo/1.jpeg", "img/enzo/2.jpeg", "img/enzo/3.jpeg", "img/enzo/4.jpeg", "img/enzo/5.jpeg", "img/enzo/6.jpeg", "img/enzo/7.jpeg"],
     Samuel: [],
     Lionel: [],
+    Lucas: [],
     Emmanuel: [],
     Eithan: [],
     Santino: [],
