@@ -4,7 +4,7 @@ const data = {
     Lionel: ["img/lionel/1.jpeg", "img/lionel/2.jpeg"],
     Lucas: [],
     Emmanuel: ["img/emma/1.jpeg", "img/emma/2.jpeg", "img/emma/3.jpeg", "img/emma/4.jpeg", "img/emma/5.jpeg", "img/emma/6.jpeg", "img/emma/7.jpeg", "img/emma/8.jpeg", "img/emma/9.jpeg", "img/emma/10.jpeg", "img/emma/11.jpeg"],
-    Eithan: [],
+    Eithan: ["img/eithan/1.jpeg", "img/eithan/2.jpeg", "img/eithan/3.jpeg", "img/eithan/4.jpeg", "img/eithan/5.jpeg", "img/eithan/6.jpeg", "img/eithan/7.jpeg", "img/eithan/8.jpeg"],
     Santino: [],
     Thiago: [],
     GianLuca: [],
