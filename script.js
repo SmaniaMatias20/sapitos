@@ -17,7 +17,7 @@ const data = {
     Martina: ["img/martina/1.jpeg", "img/martina/2.jpeg", "img/martina/3.jpeg", "img/martina/4.jpeg", "img/martina/5.jpeg", "img/martina/6.jpeg", "img/martina/7.jpeg", "img/martina/8.jpeg", "img/martina/9.jpeg", "img/martina/10.jpeg", "img/martina/11.jpeg", "img/martina/12.jpeg", "img/martina/13.jpeg", "img/martina/14.jpeg", "img/martina/15.jpeg", "img/martina/16.jpeg", "img/martina/17.jpeg", "img/martina/18.jpeg"],
     Lucia: ["img/lucia/1.jpeg", "img/lucia/2.jpeg", "img/lucia/3.jpeg", "img/lucia/4.jpeg", "img/lucia/5.jpeg", "img/lucia/6.jpeg", "img/lucia/7.jpeg", "img/lucia/8.jpeg", "img/lucia/9.jpeg", "img/lucia/10.jpeg", "img/lucia/11.jpeg", "img/lucia/12.jpeg", "img/lucia/13.jpeg", "img/lucia/14.jpeg", "img/lucia/15.jpeg", "img/lucia/16.jpeg", "img/lucia/17.jpeg"],
     Edixa: ["img/edixa/1.jpeg", "img/edixa/2.jpeg", "img/edixa/3.jpeg", "img/edixa/4.jpeg", "img/edixa/5.jpeg", "img/edixa/6.jpeg", "img/edixa/7.jpeg", "img/edixa/8.jpeg", "img/edixa/9.jpeg", "img/edixa/10.jpeg", "img/edixa/11.jpeg", "img/edixa/12.jpeg", "img/edixa/13.jpeg"],
-    Isabella: [],
+    Isabella: ["img/isa/1.jpeg", "img/isa/2.jpeg", "img/isa/3.jpeg", "img/isa/4.jpeg", "img/isa/5.jpeg", "img/isa/6.jpeg", "img/isa/7.jpeg", "img/isa/8.jpeg", "img/isa/9.jpeg", "img/isa/10.jpeg", "img/isa/11.jpeg", "img/isa/12.jpeg", "img/isa/13.jpeg", "img/isa/14.jpeg", "img/isa/15.jpeg", "img/isa/16.jpeg", "img/isa/17.jpeg", "img/isa/18.jpeg", "img/isa/19.jpeg", "img/isa/20.jpeg", "img/isa/21.jpeg", "img/isa/22.jpeg", "img/isa/23.jpeg", "img/isa/24.jpeg", "img/isa/25.jpeg", "img/isa/26.jpeg"],
     Sofia_M: [],
     Sofia_G: [],
     Regina: [],
