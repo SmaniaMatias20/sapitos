@@ -1,6 +1,6 @@
 const data = {
     Enzo: ["img/enzo/1.jpeg", "img/enzo/2.jpeg", "img/enzo/3.jpeg", "img/enzo/4.jpeg", "img/enzo/5.jpeg", "img/enzo/6.jpeg", "img/enzo/7.jpeg"],
-    Samuel: [],
+    Samuel: ["img/samuel/1.jpeg", "img/samuel/2.jpeg", "img/samuel/3.jpeg", "img/samuel/4.jpeg", "img/samuel/5.jpeg"],
     Lionel: ["img/lionel/1.jpeg", "img/lionel/2.jpeg"],
     Lucas: ["img/lucas/1.jpeg", "img/lucas/2.jpeg", "img/lucas/3.jpeg", "img/lucas/4.jpeg", "img/lucas/5.jpeg", "img/lucas/6.jpeg", "img/lucas/7.jpeg", "img/lucas/8.jpeg", "img/lucas/9.jpeg", "img/lucas/10.jpeg", "img/lucas/11.jpeg", "img/lucas/12.jpeg", "img/lucas/13.jpeg", "img/lucas/14.jpeg", "img/lucas/15.jpeg", "img/lucas/16.jpeg", "img/lucas/17.jpeg", "img/lucas/18.jpeg", "img/lucas/19.jpeg", "img/lucas/20.jpeg", "img/lucas/21.jpeg", "img/lucas/22.jpeg", "img/lucas/23.jpeg", "img/lucas/24.jpeg", "img/lucas/25.jpeg", "img/lucas/26.jpeg", "img/lucas/27.jpeg", "img/lucas/28.jpeg", "img/lucas/29.jpeg"],
     Emmanuel: ["img/emma/1.jpeg", "img/emma/2.jpeg", "img/emma/3.jpeg", "img/emma/4.jpeg", "img/emma/5.jpeg", "img/emma/6.jpeg", "img/emma/7.jpeg", "img/emma/8.jpeg", "img/emma/9.jpeg", "img/emma/10.jpeg", "img/emma/11.jpeg"],
@@ -13,7 +13,7 @@ const data = {
     Aaron: ["img/aaron/1.jpeg", "img/aaron/2.jpeg", "img/aaron/3.jpeg", "img/aaron/4.jpeg"],
     Giovanni: ["img/gio/1.jpeg", "img/gio/2.jpeg", "img/gio/3.jpeg", "img/gio/4.jpeg", "img/gio/5.jpeg", "img/gio/6.jpeg", "img/gio/7.jpeg"],
     Bruno: ["img/bruno/1.jpeg", "img/bruno/2.jpeg", "img/bruno/3.jpeg", "img/bruno/4.jpeg", "img/bruno/5.jpeg", "img/bruno/6.jpeg", "img/bruno/7.jpeg", "img/bruno/8.jpeg", "img/bruno/9.jpeg", "img/bruno/10.jpeg"],
-    Milo: [],
+    Milo: ["img/milo/1.jpeg", "img/milo/2.jpeg", "img/milo/3.jpeg", "img/milo/4.jpeg", "img/milo/5.jpeg", "img/milo/6.jpeg", "img/milo/7.jpeg", "img/milo/8.jpeg", "img/milo/9.jpeg", "img/milo/10.jpeg", "img/milo/11.jpeg", "img/milo/12.jpeg", "img/milo/13.jpeg"],
     Martina: [],
     Lucia: [],
     Edixa: [],
