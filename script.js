@@ -1,7 +1,7 @@
 const data = {
     Enzo: ["img/enzo/1.jpeg", "img/enzo/2.jpeg", "img/enzo/3.jpeg", "img/enzo/4.jpeg", "img/enzo/5.jpeg", "img/enzo/6.jpeg", "img/enzo/7.jpeg"],
     Samuel: ["img/samuel/1.jpeg", "img/samuel/2.jpeg", "img/samuel/3.jpeg", "img/samuel/4.jpeg", "img/samuel/5.jpeg"],
-    Lionel: ["img/lionel/1.jpeg", "img/lionel/2.jpeg"],
+    Lionel: ["img/lionel/1.jpeg", "img/lionel/2.jpeg", "img/lionel/3.jpeg", "img/lionel/4.jpeg", "img/lionel/5.jpeg", "img/lionel/6.jpeg", "img/lionel/7.jpeg", "img/lionel/8.jpeg"],
     Lucas: ["img/lucas/1.jpeg", "img/lucas/2.jpeg", "img/lucas/3.jpeg", "img/lucas/4.jpeg", "img/lucas/5.jpeg", "img/lucas/6.jpeg", "img/lucas/7.jpeg", "img/lucas/8.jpeg", "img/lucas/9.jpeg", "img/lucas/10.jpeg", "img/lucas/11.jpeg", "img/lucas/12.jpeg", "img/lucas/13.jpeg", "img/lucas/14.jpeg", "img/lucas/15.jpeg", "img/lucas/16.jpeg", "img/lucas/17.jpeg", "img/lucas/18.jpeg", "img/lucas/19.jpeg", "img/lucas/20.jpeg", "img/lucas/21.jpeg", "img/lucas/22.jpeg", "img/lucas/23.jpeg", "img/lucas/24.jpeg", "img/lucas/25.jpeg", "img/lucas/26.jpeg", "img/lucas/27.jpeg", "img/lucas/28.jpeg", "img/lucas/29.jpeg"],
     Emmanuel: ["img/emma/1.jpeg", "img/emma/2.jpeg", "img/emma/3.jpeg", "img/emma/4.jpeg", "img/emma/5.jpeg", "img/emma/6.jpeg", "img/emma/7.jpeg", "img/emma/8.jpeg", "img/emma/9.jpeg", "img/emma/10.jpeg", "img/emma/11.jpeg"],
     Eithan: ["img/eithan/1.jpeg", "img/eithan/2.jpeg", "img/eithan/3.jpeg", "img/eithan/4.jpeg", "img/eithan/5.jpeg", "img/eithan/6.jpeg", "img/eithan/7.jpeg", "img/eithan/8.jpeg"],
@@ -20,7 +20,7 @@ const data = {
     Isabella: ["img/isa/1.jpeg", "img/isa/2.jpeg", "img/isa/3.jpeg", "img/isa/4.jpeg", "img/isa/5.jpeg", "img/isa/6.jpeg", "img/isa/7.jpeg", "img/isa/8.jpeg", "img/isa/9.jpeg", "img/isa/10.jpeg", "img/isa/11.jpeg", "img/isa/12.jpeg", "img/isa/13.jpeg"],
     Sofia_M: ["img/sofiaM/1.jpeg", "img/sofiaM/2.jpeg", "img/sofiaM/3.jpeg", "img/sofiaM/4.jpeg", "img/sofiaM/5.jpeg", "img/sofiaM/6.jpeg", "img/sofiaM/7.jpeg", "img/sofiaM/8.jpeg", "img/sofiaM/9.jpeg", "img/sofiaM/10.jpeg", "img/sofiaM/11.jpeg", "img/sofiaM/12.jpeg", "img/sofiaM/13.jpeg"],
     Sofia_G: ["img/sofiaG/1.jpeg", "img/sofiaG/2.jpeg", "img/sofiaG/3.jpeg", "img/sofiaG/4.jpeg", "img/sofiaG/5.jpeg", "img/sofiaG/6.jpeg", "img/sofiaG/7.jpeg", "img/sofiaG/8.jpeg", "img/sofiaG/9.jpeg", "img/sofiaG/10.jpeg"],
-    Regina: ["img/regina/1.jpeg", "img/regina/2.jpeg", "img/regina/3.jpeg", "img/regina/4.jpeg", "img/regina/5.jpeg"],
+    Regina: ["img/regina/1.jpeg", "img/regina/2.jpeg", "img/regina/3.jpeg", "img/regina/4.jpeg", "img/regina/5.jpeg", "img/regina/6.jpeg"],
     Maite: ["img/maite/1.jpeg", "img/maite/2.jpeg", "img/maite/3.jpeg", "img/maite/4.jpeg", "img/maite/5.jpeg"],
     Olivia: ["img/olivia/1.jpeg", "img/olivia/2.jpeg", "img/olivia/3.jpeg", "img/olivia/4.jpeg"],
     Jade: ["img/jade/1.jpeg", "img/jade/2.jpeg", "img/jade/3.jpeg"],
