@@ -25,7 +25,7 @@ const data = {
     Olivia: ["img/olivia/1.jpeg", "img/olivia/2.jpeg", "img/olivia/3.jpeg", "img/olivia/4.jpeg"],
     Jade: ["img/jade/1.jpeg", "img/jade/2.jpeg", "img/jade/3.jpeg"],
     Alisson: ["img/alison/1.jpeg", "img/alison/2.jpeg", "img/alison/3.jpeg", "img/alison/4.jpeg", "img/alison/5.jpeg", "img/alison/6.jpeg"],
-    Giselle: []
+    Giselle: ["img/gise/1.jpeg", "img/gise/2.jpeg", "img/gise/3.jpeg", "img/gise/4.jpeg", "img/gise/5.jpeg", "img/gise/6.jpeg"]
 };
 
 
