@@ -7,7 +7,7 @@ const data = {
     Eithan: ["img/eithan/1.jpeg", "img/eithan/2.jpeg", "img/eithan/3.jpeg", "img/eithan/4.jpeg", "img/eithan/5.jpeg", "img/eithan/6.jpeg", "img/eithan/7.jpeg", "img/eithan/8.jpeg"],
     Santino: ["img/santino/1.jpeg", "img/santino/2.jpeg", "img/santino/3.jpeg", "img/santino/4.jpeg", "img/santino/5.jpeg", "img/santino/6.jpeg", "img/santino/7.jpeg", "img/santino/8.jpeg", "img/santino/9.jpeg"],
     Thiago: ["img/thiago/1.jpeg", "img/thiago/2.jpeg", "img/thiago/3.jpeg", "img/thiago/4.jpeg", "img/thiago/5.jpeg", "img/thiago/6.jpeg", "img/thiago/7.jpeg", "img/thiago/8.jpeg", "img/thiago/9.jpeg", "img/thiago/10.jpeg", "img/thiago/11.jpeg"],
-    GianLuca: ["img/gian/1.jpeg", "img/gian/2.jpeg", "img/gian/3.jpeg", "img/gian/4.jpeg"],
+    GianLuca: ["img/gian/1.jpeg", "img/gian/2.jpeg", "img/gian/3.jpeg", "img/gian/4.jpeg", "img/gian/5.jpeg", "img/gian/6.jpeg", "img/gian/7.jpeg", "img/gian/8.jpeg", "img/gian/9.jpeg", "img/gian/10.jpeg", "img/gian/11.jpeg", "img/gian/12.jpeg", "img/gian/13.jpeg", "img/gian/14.jpeg", "img/gian/15.jpeg"],
     Patricio: ["img/patricio/1.jpeg", "img/patricio/2.jpeg", "img/patricio/3.jpeg", "img/patricio/4.jpeg", "img/patricio/5.jpeg", "img/patricio/6.jpeg", "img/patricio/7.jpeg", "img/patricio/8.jpeg"],
     Geronimo: ["img/gero/1.jpeg", "img/gero/2.jpeg", "img/gero/3.jpeg", "img/gero/4.jpeg", "img/gero/5.jpeg", "img/gero/6.jpeg", "img/gero/7.jpeg", "img/gero/8.jpeg", "img/gero/9.jpeg", "img/gero/10.jpeg", "img/gero/11.jpeg", "img/gero/12.jpeg", "img/gero/13.jpeg", "img/gero/14.jpeg", "img/gero/15.jpeg", "img/gero/16.jpeg", "img/gero/17.jpeg", "img/gero/18.jpeg", "img/gero/19.jpeg"],
     Aaron: ["img/aaron/1.jpeg", "img/aaron/2.jpeg", "img/aaron/3.jpeg", "img/aaron/4.jpeg"],
