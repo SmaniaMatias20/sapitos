@@ -70,7 +70,7 @@ backBtn.onclick = () => {
     backBtn.classList.add("hidden");
 
     gallery.innerHTML = "";
-    title.textContent = "Sapitos";
+    title.textContent = "Mis días en el jardín";
 };
 
 const modal = document.getElementById("modal");
