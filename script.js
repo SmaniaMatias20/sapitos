@@ -23,7 +23,7 @@ const data = {
     Regina: ["img/regina/1.jpeg", "img/regina/2.jpeg", "img/regina/3.jpeg", "img/regina/4.jpeg", "img/regina/5.jpeg", "img/regina/6.jpeg"],
     Maite: ["img/maite/1.jpeg", "img/maite/2.jpeg", "img/maite/3.jpeg", "img/maite/4.jpeg", "img/maite/5.jpeg", "img/maite/6.jpeg"],
     Olivia: ["img/olivia/1.jpeg", "img/olivia/2.jpeg", "img/olivia/3.jpeg", "img/olivia/4.jpeg", "img/olivia/5.jpeg", "img/olivia/6.jpeg", "img/olivia/7.jpeg", "img/olivia/8.jpeg", "img/olivia/9.jpeg", "img/olivia/10.jpeg", "img/olivia/11.jpeg", "img/olivia/12.jpeg", "img/olivia/13.jpeg", "img/olivia/14.jpeg", "img/olivia/15.jpeg", "img/olivia/16.jpeg"],
-    Jade: ["img/jade/1.jpeg", "img/jade/2.jpeg", "img/jade/3.jpeg"],
+    Jade: ["img/jade/1.jpeg", "img/jade/2.jpeg", "img/jade/3.jpeg", "img/jade/4.jpeg", "img/jade/5.jpeg", "img/jade/6.jpeg", "img/jade/7.jpeg", "img/jade/8.jpeg"],
     Alisson: ["img/alison/1.jpeg", "img/alison/2.jpeg", "img/alison/3.jpeg", "img/alison/4.jpeg", "img/alison/5.jpeg", "img/alison/6.jpeg"],
     Giselle: ["img/gise/1.jpeg", "img/gise/2.jpeg", "img/gise/3.jpeg", "img/gise/4.jpeg", "img/gise/5.jpeg", "img/gise/6.jpeg"]
 };
