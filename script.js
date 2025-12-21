@@ -21,7 +21,7 @@ const data = {
     Sofia_M: ["img/sofiaM/1.jpeg", "img/sofiaM/2.jpeg", "img/sofiaM/3.jpeg", "img/sofiaM/4.jpeg", "img/sofiaM/5.jpeg", "img/sofiaM/6.jpeg", "img/sofiaM/7.jpeg", "img/sofiaM/8.jpeg", "img/sofiaM/9.jpeg", "img/sofiaM/10.jpeg", "img/sofiaM/11.jpeg", "img/sofiaM/12.jpeg", "img/sofiaM/13.jpeg"],
     Sofia_G: ["img/sofiaG/1.jpeg", "img/sofiaG/2.jpeg", "img/sofiaG/3.jpeg", "img/sofiaG/4.jpeg", "img/sofiaG/5.jpeg", "img/sofiaG/6.jpeg", "img/sofiaG/7.jpeg", "img/sofiaG/8.jpeg", "img/sofiaG/9.jpeg", "img/sofiaG/10.jpeg"],
     Regina: ["img/regina/1.jpeg", "img/regina/2.jpeg", "img/regina/3.jpeg", "img/regina/4.jpeg", "img/regina/5.jpeg", "img/regina/6.jpeg"],
-    Maite: ["img/maite/1.jpeg", "img/maite/2.jpeg", "img/maite/3.jpeg", "img/maite/4.jpeg", "img/maite/5.jpeg"],
+    Maite: ["img/maite/1.jpeg", "img/maite/2.jpeg", "img/maite/3.jpeg", "img/maite/4.jpeg", "img/maite/5.jpeg", "img/maite/6.jpeg"],
     Olivia: ["img/olivia/1.jpeg", "img/olivia/2.jpeg", "img/olivia/3.jpeg", "img/olivia/4.jpeg", "img/olivia/5.jpeg", "img/olivia/6.jpeg", "img/olivia/7.jpeg", "img/olivia/8.jpeg", "img/olivia/9.jpeg", "img/olivia/10.jpeg", "img/olivia/11.jpeg", "img/olivia/12.jpeg", "img/olivia/13.jpeg", "img/olivia/14.jpeg", "img/olivia/15.jpeg", "img/olivia/16.jpeg"],
     Jade: ["img/jade/1.jpeg", "img/jade/2.jpeg", "img/jade/3.jpeg"],
     Alisson: ["img/alison/1.jpeg", "img/alison/2.jpeg", "img/alison/3.jpeg", "img/alison/4.jpeg", "img/alison/5.jpeg", "img/alison/6.jpeg"],
